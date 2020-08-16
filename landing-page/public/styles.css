@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #171f16;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+
+  padding: 0 16px;
+}
+
+header {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p {
+  color: #ccc;
+}
+
+.news-media {
+  list-style-type: none;
+  height: 324px;
+  width: 350px;
+}
+
+.media {
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+  flex-grow: 1;
+
+
+}
+
+.learning {
+  background-color: azure;
+
+  border: 1px solid black;
+  height: 350px;
+  width: 550px;
+}
+
+.news {
+  margin-right: 100px;
+  background-color: gainsboro;
+  border: 1px solid black;
+  height: 350px;
+  width: 550px;
+}
+
+.quote-container {
+  border: 3px solid black;
+  width: 550px;
+  margin-left: 400px;
+  margin-right: auto;
+  height: 120px;
+
+
+}
