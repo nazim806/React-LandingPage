@@ -21,6 +21,11 @@ function Learning() {
           Udemy
         </Link>
       </li>
+      <li>
+        <Link to="https://codewithmosh.com/courses/" target="_blank">
+          Code With Mosh
+        </Link>
+      </li>
     </ul>
   );
 }
