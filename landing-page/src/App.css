@@ -47,6 +47,9 @@
   padding-left: 3em;
   padding-right: 3em;
   margin-top: 3em;
+  margin-left: auto;
+  max-width: auto;
+  min-height: 150px;
 }
 
 .footer {

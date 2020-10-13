@@ -38,8 +38,9 @@ function App() {
         <Router>
           <NavigationBar />
           <Quotes />
+          <br/>
           <h3>Links of most frequently used websites</h3>
-
+           <br/>
           <div class="media">
             <div class="news">
               <Media />
